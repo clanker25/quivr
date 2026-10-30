@@ -1,0 +1,11 @@
+{
+  "items": [],
+  "checkpoint": {
+    "since": "alert-6"
+  },
+  "more": true,
+  "push": {
+    "state": "active",
+    "poll_interval_seconds": 800
+  }
+}

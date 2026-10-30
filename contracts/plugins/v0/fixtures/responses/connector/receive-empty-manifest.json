@@ -1,0 +1,14 @@
+{
+  "verdict": "accepted",
+  "response": {
+    "status": 300
+  },
+  "items": [
+    {
+      "record_key": "member",
+      "content": {
+        "kind": "manifest"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "description": "Output that embeds the invocation id, so replaying the idempotency key diverges.",
+  "certified": true,
+  "check": "replay",
+  "code": "nondeterministic_output"
+}
